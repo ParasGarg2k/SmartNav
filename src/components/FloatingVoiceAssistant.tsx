@@ -21,14 +21,14 @@ const FloatingVoiceAssistant: React.FC<FloatingVoiceAssistantProps> = ({ isVisib
     "Where is almond milk?": {
       answer: "Almond milk is located in Aisle D2 (Dairy alternatives section). Current stock level: 5/30.",
       suggestions: ['Check nearby stores', 'Find alternatives', 'Notify when restocked']
-    },
-    "What's the nutrition info for whole wheat bread?": {
-      answer: "Great Value Organic Whole Wheat Bread Nutrition: B+ Score, 110 calories per slice, 4g protein, 22g carbs, 3g fiber. Ingredients: Organic whole wheat flour, water, organic cane sugar, yeast, sea salt, organic sunflower oil. Allergens: Wheat.",
-      suggestions: ['Compare with other breads', 'Check gluten-free options', 'Find recipes']
-    },
-    "Is organic chicken breast in stock?": {
-      answer: "Organic chicken breast is currently in stock in Aisle P1 (Proteins section). Price: $8.99/lb. Current stock level: 25/50. Would you like me to add it to your shopping list?",
-      suggestions: ['Add to shopping list', 'Check other protein options', 'Find recipes']
+    // },
+    // "What's the nutrition info for whole wheat bread?": {
+    //   answer: "Great Value Organic Whole Wheat Bread Nutrition: B+ Score, 110 calories per slice, 4g protein, 22g carbs, 3g fiber. Ingredients: Organic whole wheat flour, water, organic cane sugar, yeast, sea salt, organic sunflower oil. Allergens: Wheat.",
+    //   suggestions: ['Compare with other breads', 'Check gluten-free options', 'Find recipes']
+    // },
+    // "Is organic chicken breast in stock?": {
+    //   answer: "Organic chicken breast is currently in stock in Aisle P1 (Proteins section). Price: $8.99/lb. Current stock level: 25/50. Would you like me to add it to your shopping list?",
+    //   suggestions: ['Add to shopping list', 'Check other protein options', 'Find recipes']
     }
   };
 
